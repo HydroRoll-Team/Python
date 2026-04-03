@@ -1258,8 +1258,6 @@
   * [Tabu Search](searches/tabu_search.py)
   * [Ternary Search](searches/ternary_search.py)
 
-## [Setup](/setup.py)
-
 ## Sorts
   * [Bead Sort](sorts/bead_sort.py)
   * [Binary Insertion Sort](sorts/binary_insertion_sort.py)
